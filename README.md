@@ -1,5 +1,8 @@
 Jud whether a point on a map is in a polygon for fireCode.
 
+Install:
+npm install map-pip
+
 eg:
 var mapPIP = require("map-pip")
 var polygon = [ [ 121.47, 31.23 ], [ 161.47, 31.23 ], [ 141.47, 51.23 ] ]
